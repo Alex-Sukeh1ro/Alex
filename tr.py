@@ -1,8 +1,3 @@
-Color = ['green', 'black', 'blue', 'pink']
-Nmb_rooms = [3, 5, 6]
-Kind = ['flat', 'house']
-
-
 FIRST = ['green', '5', 'house']
 FIRST1 = ['green', '5']
 FIRST2 = ['green', 'house']
